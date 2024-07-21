@@ -36,11 +36,11 @@ The QKD class simulates QKD key generation between satellites and ground station
 
 ### User Roles and Permissions
 
-Roles (`admin`, user, `guest`) are defined with specific permissions. Users are assigned roles and MFA status.
+Roles (`admin`, `user`, `guest`) are defined with specific permissions. Users are assigned roles and MFA status.
 
 ### Network Segments
 
-Network segments (`public`, internal, `sensitive`) restrict access based on user roles. Traffic is logged if users have the appropriate permissions.
+Network segments (`public`, `internal`, `sensitive`) restrict access based on user roles. Traffic is logged if users have the appropriate permissions.
 
 ### Satellite and Ground Station Communication
 
