@@ -1,6 +1,5 @@
 # Satellite Communication System Security Architecture Simulation
 
-This repository contains a simulation of a security architecture for satellite communication systems. The simulation includes RSA encryption, Quantum Key Distribution (QKD), Multi-Factor Authentication (MFA), threat detection, and incident response mechanisms.
 
 ## Authors
 
