@@ -4,12 +4,15 @@
 ## Authors
 
 - Farshad Rahimi Ghashghaei
-- Yussuf Ahmed
 - Yonghao Wang
+- Mohammad Shojafar
+- De Mi
+- Yussuf Ahmed
 
 ## Affiliations
 
-- Farshad Rahimi Ghashghaei and Yussuf Ahmed: School of Computing and Digital Technology, Birmingham City University, Birmingham, United Kingdom
+- Farshad Rahimi Ghashghaei, Yonghao Wang, De Mi, and Yussuf Ahmed: School of Computing and Digital Technology, Birmingham City University, Birmingham, United Kingdom
+- Mohammad Shojafar: Institute for Communication Systems, University of Surrey, Guildford GU2 7XH, United Kingdom
 
 ## Overview
 
